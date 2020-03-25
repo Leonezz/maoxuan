@@ -775,3 +775,8 @@
 386. [对天安门事件的指示](https://github.com/Leonezz/maoxuan/blob/master/src/386.对天安门事件的指示.md)
 
 387. [后事交代](https://github.com/Leonezz/maoxuan/blob/master/src/387.后事交代.md)
+
+# License
+Available under **I do not take any responsibility** LICENSE.
+
+*注：数据爬取自互联网，本人对内容不负责任*
